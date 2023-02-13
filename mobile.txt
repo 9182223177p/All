@@ -7,3 +7,4 @@ Ram:128GB
  version : 100
  version : 120
 version:150
+version:220
