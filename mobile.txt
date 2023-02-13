@@ -1,3 +1,5 @@
 name:realme
 version:note9 pro max
 Ram:128GB
+ 
+ version:13.0
