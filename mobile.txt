@@ -6,3 +6,4 @@ Ram:128GB
  version :60
  version : 100
  version : 120
+version:150
